@@ -4,7 +4,7 @@
     <item
         jar="/Users/wyx/androidWork/baseLibs/app/build/intermediates/exploded-aar/com.contrarywind/Android-PickerView/3.2.4/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.0"
+        revision="23.0.3"
         sha1="3f1b6ea1e0a5511ac12789669192a2ac4912f092">
         <dex dex="/Users/wyx/androidWork/baseLibs/app/build/intermediates/pre-dexed/debug/com.contrarywind-Android-PickerView-3.2.4_7741556ef2d18a9663e5165a5bf1be4c2e4bf4b6.jar" />
     </item>
